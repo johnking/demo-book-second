@@ -1,7 +1,7 @@
 ---
-title: Introduction to second demo book
-seoTitle: second demo book
-seoDescription: second demo book to test my application
+title: Introduction
+seoTitle: title for search engines
+seoDescription: description for search engines
 isFree: true
 ---
 
